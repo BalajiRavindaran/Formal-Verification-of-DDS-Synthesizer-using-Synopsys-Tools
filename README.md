@@ -1,4 +1,4 @@
-## Formal-Verification-of-DDS-Synthesizer-using-Synopsys-Tools
+## Formal-Verification-of-DDS-Synthesizer-using-Synopsys-Tools 
 
 <ul>
 <li>Worked on formal verification and bug resolution for a Digital Down Converter (DDS) synthesizer design.</li>
